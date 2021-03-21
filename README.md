@@ -10,8 +10,8 @@ Sucesso Compartilhado (ou ISA - Income Share Agreement) é um programa oferecido
 
 Nessa modalidade o estudante só começa pagar após o término do curso e se tiver ganhando a renda mínima acordada no contrato.
 
-[Sucesso Compartilhado](https://cubos.academy/sucesso-compartilhado/)
-[Programação do Zero](https://cubos.academy/cursos/programacao-do-zero/)
+* [Sucesso Compartilhado](https://cubos.academy/sucesso-compartilhado/)
+* [Programação do Zero](https://cubos.academy/cursos/programacao-do-zero/)
 
 
 

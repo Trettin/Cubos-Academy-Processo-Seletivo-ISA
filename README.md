@@ -4,6 +4,8 @@
 
 Para me matricular no curso Programação do Zero da Cubos Academy através do programa Sucesso Compartilhado passei por uma selação que dentre outras etapas havia a etapa de concluir desafios propostos na plataforma hackerrank. 
 
+* [Link para desafios](https://www.hackerrank.com/contests/psel-sucesso-compartilhado-012021/challenges)
+
 Este repositório contém os códigos que resolvi para tais questões.
 
 Sucesso Compartilhado (ou ISA - Income Share Agreement) é um programa oferecido pela Cubos para estudantes que não tenham condições de pagar antecipadamente por um curso. 
